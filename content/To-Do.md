@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-08-28T11:00:21.727-04:00","modified":"2025-08-28T13:17:33.330-04:00","cssclasses":""}
+{"publish":true,"created":"2025-08-28T11:00:21.727-04:00","modified":"2025-08-28T16:12:57.245-04:00","cssclasses":""}
 ---
 
 - [ ] Add more songs to my Navidrome server
